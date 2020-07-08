@@ -1,2 +1,2 @@
 # cd_algorithm
-The code will be uploaded after the perpaer is published.
+Code repository for under review paper.
