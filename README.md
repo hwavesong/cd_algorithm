@@ -14,7 +14,7 @@ The experimental environment of C&D algorithm is consistent with [Shen et al..](
 ## Citation
 If you find our work or code useful in your research, please consider citing:
 
-···
+```
 @inproceedings{DBLP:conf/iconip/SongZL20,
   author    = {Haohao Song and
                Dongsheng Zou and
