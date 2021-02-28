@@ -13,6 +13,7 @@ The experimental environment of C&D algorithm is consistent with [Shen et al..](
 
 ## Citation
 If you find our work or code useful in your research, please consider citing:
+
 ···
 @inproceedings{DBLP:conf/iconip/SongZL20,
   author    = {Haohao Song and
@@ -38,6 +39,7 @@ If you find our work or code useful in your research, please consider citing:
   timestamp = {Fri, 20 Nov 2020 12:41:31 +0100}
 }
 '''
+
 If you have any questions, please contact me via issue or [email](songhaohao2018@cqu.edu.cn).
 
 
