@@ -1,3 +1,5 @@
+# C\&D Algorithm
+
 This project hosts the official implementation for our ICONIP 2020 paper:
 
 Learning Discrete Sentence Representations via Construction & Decomposition [Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_66).
